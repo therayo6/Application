@@ -19,3 +19,5 @@ If a XXth click pass out, you will get special reward
 
 ## Counter 
 The counter of every click you ever did with ClickerXP, all of the time 
+
+And all in one, simple application
